@@ -32,4 +32,5 @@ A few things I want to do everyday are
 - [ ] Eat three meals
 
 [Relative link to README](README.md)
+
 [Section link to About Me](#about-me)
