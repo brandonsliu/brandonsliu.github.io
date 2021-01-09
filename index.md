@@ -1,38 +1,32 @@
 # Brandon's Page
-## It's me! (or it will be once I find a picture)
+## About Me
+### It's me! (or it will be once I find a picture)
+![Monkey](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemetemplate%2F125110260%2FConfused-monkey&psig=AOvVaw3LMUVfCZJBeT7zjxrXbEJE&ust=1610260108517000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjvhcGcju4CFQAAAAAdAAAAABAD)
 
-You can use the [editor on GitHub](https://github.com/brandonsliu/brandonsliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I am currently a second-year Computer Science student at UCSD. I really enjoy learning all about computer science, but it's really hard. So far the only program I know is 
 ```
+bool isAwesome(Person p){
+  if(p.name.equals("Brandon"){
+    return true;
+  }
+  return false;
+}
+```
+My favorite quote is 
+> LEEROOOOOOOOOOOOOOOOOOOOOOY JEEEEEEENKIIIIIIIIIIIIIIINS!!!!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Leeroy Jenkins
 
-### Jekyll Themes
+[One of my favorite songs!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brandonsliu/brandonsliu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My favorite *foods* include 
+1. Shabu Shabu
+2. Korean Barbeque
+3. **Filet-o-fish**
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A few things I want to do everyday are 
+- [x] Wake up
+- [ ] Go to sleep
+- [ ] Eat three meals
+
