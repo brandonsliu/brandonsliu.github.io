@@ -1,7 +1,8 @@
 # Brandon's Page
 ## About Me
 ### It's me! (or it will be once I find a picture)
-![Monkey](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemetemplate%2F125110260%2FConfused-monkey&psig=AOvVaw3LMUVfCZJBeT7zjxrXbEJE&ust=1610260108517000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjvhcGcju4CFQAAAAAdAAAAABAD)
+![Monkey](https://accessibilibuddy.com/wp-content/uploads/2018/10/14182-Head_Scratcher_Monkey_23.07.2012.jpg)
+
 
 I am currently a second-year Computer Science student at UCSD. I really enjoy learning all about computer science, but it's really hard. So far the only program I know is 
 ```
@@ -30,3 +31,4 @@ A few things I want to do everyday are
 - [ ] Go to sleep
 - [ ] Eat three meals
 
+[Relative link to README](../README.md)
