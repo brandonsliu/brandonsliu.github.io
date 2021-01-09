@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Brandon's Page
+## It's me! (or it will be once I find a picture)
 
 You can use the [editor on GitHub](https://github.com/brandonsliu/brandonsliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
