@@ -4,7 +4,7 @@
 ![Monkey](https://accessibilibuddy.com/wp-content/uploads/2018/10/14182-Head_Scratcher_Monkey_23.07.2012.jpg)
 
 
-I am currently a second-year Computer Science student at UCSD. I really enjoy learning all about computer science, but it's really hard. So far the only program I know is 
+I am currently a second-year Computer Science student at UCSD. I really enjoy learning all about computer science, but it's really hard. So far the only code I know is 
 ```
 bool isAwesome(Person p){
   if(p.name.equals("Brandon"){
