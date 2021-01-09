@@ -31,4 +31,4 @@ A few things I want to do everyday are
 - [ ] Go to sleep
 - [ ] Eat three meals
 
-[Relative link to README](../README.md)
+[Relative link to README](README.md)
